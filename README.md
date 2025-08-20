@@ -1,5 +1,5 @@
 ## Hi there 👋 
-!(https://drive.google.com/file/d/1NAPNajFvFib4Iibl5ZsygH0cMFLAa9de/view?usp=drive_link)
+![Banner](https://drive.google.com/uc?export=view&id=1NAPNajFvFib4Iibl5ZsygH0cMFLAa9de)
 
 🔭 **Certified Junior Data Scientist** based in **Canada**, currently working as a **freelancer** after completing an intensive **Data Science Bootcamp**.  
 
