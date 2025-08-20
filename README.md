@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1NAPNajFvFib4Iibl5ZsygH0cMFLAa9de" 
        alt="Alejandro Vásquez - Data Scientist" 
-       width="800"/>
+       width="900"/>
 </p>
 
 🔭 **Certified Junior Data Scientist** based in **Canada**, currently working as a **freelancer** after completing an intensive **Data Science Bootcamp**.  
