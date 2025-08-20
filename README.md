@@ -1,4 +1,5 @@
 ## Hi there 👋 
+![Texto alternativo](https://www.linkedin.com/in/alejandrovmontalvo/overlay/background-image/)
 
 🔭 **Certified Junior Data Scientist** based in **Canada**, currently working as a **freelancer** after completing an intensive **Data Science Bootcamp**.  
 
